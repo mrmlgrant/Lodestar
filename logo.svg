@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-label="Lodestar">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E4572E"/>
+      <stop offset="1" stop-color="#F0A03F"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="24" fill="url(#g)"/>
+  <polygon fill="#fff" points="50,8 54.4,39.4 69.1,30.9 60.6,45.6 92,50 60.6,54.4 69.1,69.1 54.4,60.6 50,92 45.6,60.6 30.9,69.1 39.4,54.4 8,50 39.4,45.6 30.9,30.9 45.6,39.4"/>
+</svg>
